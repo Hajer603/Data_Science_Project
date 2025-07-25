@@ -1,4 +1,4 @@
-<img width="406" height="502" alt="image" src="https://github.com/user-attachments/assets/e7cb130e-29da-472e-8301-635dac71c28f" /># Data_Science_Project
+# Data_Science_Project
 # 🏠 Real Estate Data Collection and Cleaning Project
 
 ## 📌 Objective
@@ -82,20 +82,4 @@ These platforms list properties **for sale** across Oman. Data was collected fro
 ---
 
 ## 🗂️ Repository Structure
-
-├── data/
- dubizzle_raw.csv
- hilal_raw.csv
-combined_cleaned_data.csv
-│
-├── notebooks/
- web_scraping_dubizzle.ipynb
- web_scraping_hilal.ipynb
- modeling.ipynb (optional)
-│
-├── scripts/
-cleaning.py
-feature_engineering.py
-│
-├── README.md
-└── requirements.txt
+<img width="406" height="502" alt="image" src="https://github.com/user-attachments/assets/e7cb130e-29da-472e-8301-635dac71c28f" />
